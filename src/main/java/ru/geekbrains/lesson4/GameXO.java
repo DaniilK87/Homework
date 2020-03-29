@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class GameXO {
 
-    public static int TabSize = 3;
+    public static int TabSize = 3; 
     public static char[][] tab;
     public static int PointsToWin = 3;
     public static final char Cross = 'X';
