@@ -26,7 +26,7 @@ public class Person {
         this.Email = Email;
         this.TelNumber = TelNumber;
         this.WagesRub = WagesRub;
-        this.Age = Age;
+        this.Age = Age; //
 
     }
 
